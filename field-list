@@ -1,0 +1,17 @@
+#Make a new content type "Event" and add these vields:
+##Field name - Field type
+body - Long text and summary (module: Text)
+field_address_locality - Text (module: Text)
+field_address_region - List (text) (module: List)
+field_doortime - Date (ISO format) (module: Date)
+field_enddate - Date (ISO format) (module: Date)
+field_eventstatus - List (text) (module: List)
+field_offers_name - Text (module: Text)
+field_offers_price - Float (module: Number)
+field_place_name - Text (module: Text)
+field_postal_code - Text (module: Text)
+field_previousstartdate - Date (ISO format) (module: Date)
+field_price_currency - Text (module: Text)
+field_same_as - Text (module: Text)
+field_startdate - Date (ISO format) (module: Date)
+field_street_address - Text (module: Text)
