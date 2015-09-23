@@ -10,6 +10,6 @@ http://drupalcampohio.org/sessions/supercharged-seo-views
 <li>Make sure your view fields are in <a href="https://github.com/UpTil4Music/supercharged-seo/blob/master/view-fields-order">order</a></li>
 <li>Add a <a href="https://github.com/UpTil4Music/supercharged-seo/blob/master/views-view-fields--json-ld-attach.tpl.php">template</a> to your theme</li>
 <li>Make sure the JSON-LD Attach EVA Field is displayed on your Event view modes (/admin/structure/types/manage/event/display)</li>
-      <li>Check your date on <a href="https://developers.google.com/structured-data/testing-tool/">Google's Structured Data Testing Tool</a></li>
+      <li>Check your data on <a href="https://developers.google.com/structured-data/testing-tool/">Google's Structured Data Testing Tool</a></li>
 <li>If you've got a syntax error, try the <a href="http://json-ld.org/playground/index.html">JSON-LD Playground</a></li>
 </ol></p>
