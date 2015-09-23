@@ -1,0 +1,22 @@
+Rewriting Views fields is dependent on the order of fields.
+
+Content: Title
+Content: Body
+Body Rewrite [nothing_1]
+Content: doorTime
+Content: endDate
+Content: eventStatus
+Content: previousStartDate
+Content: priceCurrency
+Content: Path
+Content: Price
+Content: Offers name
+Content: Place
+Content: City
+Content: State
+Content: ZIP Code
+Content: Website
+Content: Street address
+Content: startDate
+Offers rewrite [nothing_2]
+JSON-LD Rewrite [nothing]
