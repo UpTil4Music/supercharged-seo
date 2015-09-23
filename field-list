@@ -1,5 +1,6 @@
-#Make a new content type "Event" and add these vields:
-##Field name - Field type
+Make a new content type "Event" and add these vields:
+
+Field name - Field type
 body - Long text and summary (module: Text)
 field_address_locality - Text (module: Text)
 field_address_region - List (text) (module: List)
