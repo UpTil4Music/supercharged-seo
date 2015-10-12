@@ -1,4 +1,4 @@
-Make a new content type "Event" and add these vields:
+Make a new content type "Event" and add these fields:
 
 Field name - Field type
 body - Long text and summary (module: Text)
