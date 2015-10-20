@@ -1,8 +1,8 @@
 Rewriting Views fields is dependent on the order of fields.
 
 Content: Title
-Content: Body
-Body Rewrite [nothing_1]
+Content: Description
+Rewrite - Body  [nothing_1]
 Content: doorTime
 Content: endDate
 Content: eventStatus
@@ -18,5 +18,5 @@ Content: ZIP Code
 Content: Website
 Content: Street address
 Content: startDate
-Offers rewrite [nothing_2]
-JSON-LD Rewrite [nothing]
+Rewrite - Offers  [nothing_2]
+Rewrite - JSON-LD [nothing]
